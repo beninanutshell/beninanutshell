@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beninanutshell
 - 👀 I’m interested in k8s, gcp, devops, photos, bball
-- 🌱 I’m currently learning k8s
+- 🌱 I’m currently learning python and jupyter 
 
 
 <!---
