@@ -22,11 +22,5 @@ You can click the Preview link to take a look at your changes.
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=beninanutshell&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/beninanutshell/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=beninanutshell&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
 
 <!-- GitHub section: END -->
