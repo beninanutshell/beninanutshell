@@ -15,11 +15,7 @@ You can click the Preview link to take a look at your changes.
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beninanutshell" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beninanutshell&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=beninanutshell&show_icons=true" alt="Githu Profile Stat" height="192px"  width="500px" />
 </div>
-
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=beninanutshell&show_icons=true" />
-</details>
 
 <!-- GitHub section: END -->
