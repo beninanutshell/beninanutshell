@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 **Expand to view**
+
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=beninanutshell&show_icons=true" />
